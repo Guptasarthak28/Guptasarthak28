@@ -14,7 +14,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/sarthak gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarthak gupta" height="30" width="40" /></a>
 <a href="https://instagram.com/sarthakgupta818" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sarthakgupta818" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/img_2021053" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="img_2021053" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/sarthakg1234" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sarthakg1234" height="30" width="40" /></a>
+  <a href="https://leetcode.com/u/ankush28032001/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="leetcode" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
