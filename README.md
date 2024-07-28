@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guptasarthak&label=Profile%20views&color=0e75b6&style=flat" alt="guptasarthak" /> </p>
 
-- 💬 Ask me about **nodejs,express, ML**
+- 💬 Ask me about **backend development, ML**
 
 - 📫 How to reach me **ankush28032001@gmail.com**
 
